@@ -28,15 +28,23 @@ Computer Science graduate interested in building practical solutions with Python
 
 **Tools:** Git, GitHub, VS Code
 
-## 🚀 Featured Project
+## Featured Project
 
 ### Real-Time Credit Card Fraud Detection
 
-A machine learning project that analyzes credit-card transactions and predicts fraud risk using a trained classification model.
+An end-to-end machine learning application that detects potentially fraudulent credit card transactions using the public ULB credit-card fraud dataset.
 
-**Tech:** Python • Scikit-learn • FastAPI • SQLite • HTML/CSS/JavaScript
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, FastAPI, SQLite, HTML, CSS
 
-🔗 [View Project](https://github.com/YugendarReddyGunna/real-time-fraud-detection-real-dataset)
+**Key Features:**
+- Machine learning-based fraud classification
+- Handles highly imbalanced transaction data
+- Real-time prediction through REST API
+- Transaction history stored in SQLite
+- Interactive fraud-risk dashboard
+- Model performance and feature insights
+
+[View Project](https://github.com/YugendarReddyGunna/real-time-fraud-detection-real-dataset)
 
 ## 🎯 Current Focus
 
