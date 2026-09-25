@@ -7,7 +7,7 @@ Computer Science graduate interested in building practical solutions with Python
 - 🎓 Computer Science & Engineering graduate
 - 🐍 Working with Python, SQL, and Machine Learning
 - 📊 Interested in Data Analytics and Data Science
-- ⚙️ Exploring FastAPI and backend development
+- ⚙️ Building backend applications with FastAPI
 - 🚀 Building practical projects to strengthen my software and ML skills
 
 ## Skills
